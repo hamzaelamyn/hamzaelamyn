@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza Elamyn</h1>
+<h1 align="center">Hi, I'm Hamza Elamyn</h1>
 <h3 align="center">Software Developer & Founder of <a href="https://www.north-rp.com" target="_blank">THE NORTH ROLEPLAY</a></h3>
 
 <p align="center">
