@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-6%2B%20Years-blue?style=for-the-badge&logo=gnome-terminal" alt="Experience" />
-  <img src="https://img.shields.io/badge/The%20North%20RP-17K%20%2B%20Active%20Members-success?style=for-the-badge&logo=discord" alt="The North Members" />
+  <img src="https://img.shields.io/badge/THE%20NORTH%20ROLEPLAY-17K%20%2B%20Active%20Members-success?style=for-the-badge&logo=discord" alt="The North Members" />
   <img src="https://img.shields.io/github/followers/hamzaelamyn?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 </p>
 
