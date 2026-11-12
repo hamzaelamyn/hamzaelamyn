@@ -11,15 +11,15 @@
 
 ---
 
-### 🏛️ About Me & My Journey
-- 🚀 **6+ Years of Experience** in software engineering, backend management, game server scripting, and systems administration since 2020.
-- 👑 **Founder & Lead Developer of [THE NORTH ROLEPLAY](https://www.north-rp.com):** Built, scaled, and self-managed a massive multiplayer roleplay community hosting over **17,000 active members** on [Discord](https://discord.gg/thenorth). Handled everything from game server architecture and custom **Lua** scripts, network routing, and database optimization.
-- 🐧 **Linux & DevOps Enthusiast:** Deeply experienced in deploying, securing, and maintaining self-hosted Linux operating systems, Docker containers, and automated workflows.
-- 💻 Currently expanding expertise in **Frontend Engineering & Web Integration**, crafting high-performance client-side interfaces and modern web apps.
+## About Me
+- **6+ Years of Experience** in software engineering, backend management, game server scripting, and systems administration since 2020.
+- **Founder & Lead Developer of [THE NORTH ROLEPLAY](https://www.north-rp.com):** Built, scaled, and self-managed a massive multiplayer roleplay community hosting over **17,000 active members** on [Discord](https://discord.gg/thenorth). Handled everything from game server architecture and custom **Lua** scripts, network routing, and database optimization.
+- **Linux & DevOps Enthusiast:** Deeply experienced in deploying, securing, and maintaining self-hosted Linux operating systems, Docker containers, and automated workflows.
+- Currently expanding expertise in **Frontend Engineering & Web Integration**, crafting high-performance client-side interfaces and modern web apps.
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### Tech Stack & Ecosystem
 
 #### Systems, DevOps & Version Control
 <p>
